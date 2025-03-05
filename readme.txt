@@ -51,5 +51,6 @@ Comandos:
 
 ⚙️ Local server n8n
 Comandos:
-1. npx n8n
-2.- Open http://localhost:5678/
+1. npm install n8n -g
+2. n8n
+3. Open http://localhost:5678/
