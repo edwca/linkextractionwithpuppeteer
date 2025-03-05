@@ -47,4 +47,9 @@ npm start
 Comandos:
 1. docker volume create n8n_data
 2. docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n8n.io/n8nio/n8n
-3. docker run -d --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n8n.io/n8nio/n8n
+3. Open http://localhost:5678/
+
+⚙️ Local server n8n
+Comandos:
+1. npx n8n
+2.- Open http://localhost:5678/
